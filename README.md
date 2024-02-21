@@ -85,7 +85,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Oaltz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oaltz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" align="center" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Oaltz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -93,7 +93,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://i.pinimg.com/originals/59/69/84/59698460a33a71e42ddf46e185e17737.gif"  />
+  <img height="400" align="center" src="https://i.pinimg.com/originals/59/69/84/59698460a33a71e42ddf46e185e17737.gif"  />
 </div>
 
 ###
