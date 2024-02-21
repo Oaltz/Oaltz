@@ -23,8 +23,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="55" height="40" alt="gmail logo"  />
 </div>
 
-<br clear="both">
-
 <h2 align="right">About Me 🫠</h2>
 
 ###
@@ -78,8 +76,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <h2 align="center">👽 My GitHub 👾</h2>
 
