@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Oaltz/Oaltz/output/snake.svg" align="center" alt="Snake animation" />
 
 ###
