@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left"><br>Olá, tudo bem?<br>Eu me chamo Henrique, e seja bem-vindo(a) ao meu perfil! 🥳<br>Sou mais um apaixonado pela tecnologia e movido por desafios e <br> minha curiosidade de aprender. Estou atualmente cursando o 4º semestre de <br>Desenvolvimento de Software em Multiplataforma (DSM) pela Fatec Mauá.</p>
+<p align="center"><br>Olá, tudo bem?<br>Eu me chamo Henrique, e seja bem-vindo(a) ao meu perfil! 🥳<br>Sou mais um apaixonado pela tecnologia e movido por desafios e <br> minha curiosidade de aprender. Estou atualmente cursando o 4º semestre de <br>Desenvolvimento de Software em Multiplataforma (DSM) pela Fatec Mauá.</p>
 
 ###
 
