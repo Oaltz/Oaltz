@@ -117,7 +117,7 @@
 
 ###
 
-<br clear="both">
+<hr>
 
 <div align="center">
   <img height="400" align="center" src="https://i.pinimg.com/originals/59/69/84/59698460a33a71e42ddf46e185e17737.gif"  />
