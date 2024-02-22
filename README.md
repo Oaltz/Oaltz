@@ -43,7 +43,7 @@
 
 <table style="border: none;">
   <tr style="border: none;">
-    <td style="border: none;"><img align="left" height="150" src="https://codyhouse.co/assets/img/gems/gifs/squeezebox-portfolio-template-animation.gif" /></td>
+    <td style="border: none;"><img align="left" height="200" src="https://codyhouse.co/assets/img/gems/gifs/squeezebox-portfolio-template-animation.gif" /></td>
     <td style="padding-left: 20px; border: none;">
       <p align=""> • <a href="https://chic-longma-d83d51.netlify.app/"> [Coffee Shop] </a><br>
        • <a href="https://chic-longma-d83d51.netlify.app/"> [HBOmax] </a><br>
