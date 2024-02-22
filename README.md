@@ -47,7 +47,7 @@
     <td style="padding-left: 20px; border: none;">
       <p align=""> • <a href="https://chic-longma-d83d51.netlify.app/"> [Coffee Shop] </a><br><br>
        • <a href="https://tubular-longma-38235a.netlify.app/"> [HBOmax] </a><br><br>
-       • <a href="https://lambent-manatee-fae928.netlify.app/"> [Discord Web] </a>
+       • <a href="https://sprightly-pavlova-716e7e.netlify.app/"> [Discord Web] </a>
       </p>
     </td>
   </tr>
