@@ -42,7 +42,7 @@
 
 
 
-<h2 align="left">✨ Portifólio</h2>
+<h2 align="left">✨ My Portifolio</h2>
 
 ###
 
