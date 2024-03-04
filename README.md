@@ -50,10 +50,11 @@
   <tr style="border: none;">
     <td style="border: none;"><img align="left" height="200" src="https://codyhouse.co/assets/img/gems/gifs/squeezebox-portfolio-template-animation.gif" /></td>
     <td style="padding-left: 20px; border: none;">
-      <p align=""> • <a href="https://chic-longma-d83d51.netlify.app/"> [Coffee Shop] </a><br><br>
-       • <a href="https://lambent-manatee-fae928.netlify.app/"> [HBOmax] </a><br><br>
-       • <a href="https://sprightly-pavlova-716e7e.netlify.app/"> [Discord Web] </a><br><br>
-        • <a href="https://github.com/Oaltz/repo-peopleCounter"> [People Counter] </a>
+      <p align=""> • <a href="https://reliable-mandazi-d7052d.netlify.app/"> [Curriculum] </a><br><br>
+      • <a href="https://chic-longma-d83d51.netlify.app/"> [Coffee Shop] </a><br><br>
+      • <a href="https://lambent-manatee-fae928.netlify.app/"> [HBOmax] </a><br><br>
+      • <a href="https://sprightly-pavlova-716e7e.netlify.app/"> [Discord Web] </a><br><br>
+      • <a href="https://github.com/Oaltz/repo-peopleCounter"> [People Counter] </a>
       </p>
     </td>
   </tr>
