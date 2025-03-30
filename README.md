@@ -34,7 +34,7 @@
 
 ###
 
-<p align="center"><br>Olá, tudo bem?<br>Eu me chamo Henrique, e seja bem-vindo(a) ao meu perfil! 🥳<br>Sou mais um apaixonado pela tecnologia e movido por desafios e <br> minha curiosidade de aprender. Estou atualmente cursando o 4º semestre de <br>Desenvolvimento de Software em Multiplataforma (DSM) pela Fatec Mauá.</p>
+<p align="center"><br>Olá, tudo bem?<br>Eu me chamo Henrique, e seja bem-vindo(a) ao meu perfil! 🥳<br>Sou mais um apaixonado pela tecnologia e movido por desafios e <br> minha curiosidade de aprender. Estou atualmente cursando o 6º semestre de <br>Desenvolvimento de Software em Multiplataforma (DSM) pela Fatec Mauá.</p>
 
 ###
 
@@ -68,7 +68,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31ftmxbwu2l7w4u7tcb7opgyzbi4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xuoyj7cjttpmb7s3kcdrig4gcq&count=3&unique=true" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ftmxbwu2l7w4u7tcb7opgyzbi4&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
